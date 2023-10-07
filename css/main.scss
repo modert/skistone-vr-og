@@ -1,4 +1,4 @@
---- --- @charset "utf-8";
+@charset "utf-8";
 
 // Example Defaults
 // $base-font-family: Helvetica, Arial, sans-serif;
@@ -35,9 +35,7 @@ $theme-primary: #8C52FF;
 $theme-dark: #222;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import "mixins",
-"base"
-;
+@import "mixins", "base";
 
 // .header-content-inner p{
 //                 background: rgb(34, 34, 34, .4);
