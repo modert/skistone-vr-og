@@ -45,6 +45,6 @@ $theme-dark: #222;
 
 .header-content-inner {
         p{
-                background: $theme-dark 20%;
+                background: lighten($theme-dark, 20%);
         }
 }
