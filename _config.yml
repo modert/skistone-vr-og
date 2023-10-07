@@ -1,12 +1,15 @@
 # Site settings
-title:
-email:
+title: Skistone Vacation Rentals
+email: skistone1+info@skistonevacationrentals.com
+telephone: 303-345-3213
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://dev.skistonevacationrentals.com/" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+x_username: skistonei
+facebook_username: skistone1
+tiktok_username: skistonei
+instagram_username: skistone1
 
 # Build settings
 markdown: kramdown
