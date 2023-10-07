@@ -42,3 +42,9 @@ $theme-dark: #222;
         "mixins",
         "base"
 ;
+
+.header-content-inner {
+        p{
+                background: $theme-dark 20%;
+        }
+}
