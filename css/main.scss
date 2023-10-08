@@ -33,6 +33,13 @@
 //     }
 // }
 
+
+@include .header-content-inner {
+    p{
+                background: rgb(34, 34, 34, .4);
+    }
+}
+
 // variables.less
 $theme-primary: #8C52FF;
 $theme-dark: #222;
@@ -42,9 +49,3 @@ $theme-dark: #222;
     "mixins",
      "base"
 ;
-
-.header-content-inner {
-    p{
-                background: rgb(34, 34, 34, .4);
-    }
-}
