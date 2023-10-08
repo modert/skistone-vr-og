@@ -1,5 +1,6 @@
 # Site settings
 title: Skistone Vacation Rentals
+nav_brand: Skistone I
 email: skistone1+info@skistonevacationrentals.com
 telephone: 303-345-3213
 description: > # this means to ignore newlines until "baseurl:"
