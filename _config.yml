@@ -19,3 +19,6 @@ instagram_username: skistone1
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
