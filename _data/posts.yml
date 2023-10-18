@@ -1,5 +1,4 @@
-items:
-  - modal-id: 1
-    thumbnail: /img/portfolio/1.jpg
-  - modal-id: 2
-    thumbnail: /img/portfolio/2.jpg
+- modal-id: 1
+  thumbnail: /img/portfolio/1.jpg
+- modal-id: 2
+  thumbnail: /img/portfolio/2.jpg
